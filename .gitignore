@@ -1,0 +1,4 @@
+node_modules/
+.env
+# Fuentes con licencia de NEAR: no se versionan (ver README)
+brand/fonts/
